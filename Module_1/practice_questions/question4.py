@@ -1,3 +1,6 @@
+# Author : Huzaifa Ali
+# Email : huzaifaa0303@gmail.com
+
 #  4. Compute the square of a user-input number.
 
 def main():
