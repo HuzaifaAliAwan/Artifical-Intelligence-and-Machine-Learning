@@ -2,7 +2,10 @@
 # Email : huzaifaa0303@gmail.com
 
 def main():
-    pass
+    try:
+        pass
+    except ValueError as e:
+        print('Invalid Entry, Try Again ..... !')
 
 if __name__ == '__main__':
     main()
