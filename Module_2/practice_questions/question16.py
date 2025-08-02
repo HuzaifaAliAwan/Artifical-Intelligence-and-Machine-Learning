@@ -1,7 +1,7 @@
 # Author : Huzaifa Ali
 # Email : huzaifaa0303@gmail.com
 
-#  15. Find the maximum value in a 2D array.
+# 16. Replace negative values with zero.
 
 import numpy as np
 
